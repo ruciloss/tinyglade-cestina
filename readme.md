@@ -1,1 +1,1 @@
-# Tiny Glade
+# Tiny Glade Čeština
